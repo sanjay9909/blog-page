@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+.im1{
+    width: max-content;
+    margin: auto;
+}
+.im2{
+    width: max-content;
+    margin: auto;
+}
+.div2{
+    border-radius: 50%;
+}
+.para3{
+    width: 71%;
+}
+.len{
+    border-radius: 50px;
+}
+.cam{
+    border-radius: 50px;
+}
+.ref{
+    border-radius: 50px;
+}
+
+
